@@ -151,7 +151,7 @@ export const projects = [
     image: portfolioLogo,
     tags: ["React JS", "HTML", "CSS", "JavaScript", "API"],
     github: "https://github.com/ashishkdeshmukh31/Ashish-Portfolio-React",
-    webapp: "https://www.ultragreenpower.in/",
+    webapp: "https://ashishdeshmukh.vercel.app/",
   },
   {
     id: 1,
